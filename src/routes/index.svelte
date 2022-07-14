@@ -4,7 +4,7 @@
 
     let chartRef: HTMLCanvasElement;
 
-    // following code is woring with:
+    // following code is working with:
     // @sveltejs/kit: 1.0.0-next.372
     // vite: 2.9.14
     onMount(() => {
